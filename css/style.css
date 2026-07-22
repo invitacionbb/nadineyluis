@@ -846,7 +846,7 @@ display:inline-flex;
 }
 
 /* Mobile */
-@media (max-width: 600px) {
+@media (max-width: 300px) {
   .hero {
     padding: 24px 18px;
 
