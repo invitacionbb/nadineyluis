@@ -653,7 +653,7 @@ main {
 
 .copy-row span {
   color: var(--color-white);
-  font-size: 0.79rem;
+  font-size: 0.70rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   user-select: text;
